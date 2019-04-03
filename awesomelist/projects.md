@@ -14,6 +14,7 @@ Projects under 996ICU License. Thanks for your support!
 
 |LOGO|项目|官网|简介|
 |:---:|:---|:---|:---|
+| - | [dura](https://github.com/hardphp/vue-admin) | [GitHub](https://github.com/hardphp/vue-admin) | 前后端完全分离--管理员端基于vue+element-ui+vue-cli3解决方案 |
 | <img src="https://github.com/CN-YUANYU/dura/blob/master/image/logo.png?raw=true" width="60"> | [dura](https://github.com/CN-YUANYU/dura) | [GitHub](https://github.com/CN-YUANYU/dura) | 基于 redux、typescript 的前端数据流方案 |
 | <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [vue-apis](https://github.com/ChangedenCZD/vue-apis) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 集成axios的vue插件 |
 | <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue](https://github.com/ChangedenCZD/optimize-vue) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架 |
